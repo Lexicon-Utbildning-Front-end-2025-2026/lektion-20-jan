@@ -1,8 +1,8 @@
-# 📅 SCHEMA Måndag 5 januari
+# 📅 SCHEMA Tisdag 20 januari
 
 Övergripande schema över dagen
 
-##### TypeScript – Intro Översikt TS vs JS, felsökning i DevTools, initiera projekt med npm & tsc, första enkla exempel.
+##### TypeScript –  Events, Bubbling, Event Handling, Prevent Default: Fördjupning i händelsehantering, förstå händelseflödet (bubbling), event.preventDefault(). Arbeta med att reagera på och manipulera data baserat på events.
 
 ## 🎯 Mål för dagen
 
