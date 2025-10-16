@@ -27,7 +27,7 @@ Efter denna dag ska du:
   * Denna övning kommer (EVENTUELLT!) att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* * Namn-på-länk->länk-dit
+* * [Events & Event Bubbling med Planned Planthood 🪴](https://docs.google.com/presentation/d/1nSdYj4wKdqa3xs7lpHuEd8rEVFbNoLWyn_B1AyglTxI/edit?slide=id.p#slide=id.p)
 
 
 ### Dagens Lektions Inspelningar:
